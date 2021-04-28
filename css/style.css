@@ -1,0 +1,81 @@
+html {
+	height: 2500px;
+
+}
+
+.bg-image {
+	background-image: url("background.jpg");
+	filter: blur(3px);
+	-webkit-filter: blur(8px);
+	background-position: center;
+  	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	
+}
+
+
+.zoo-moji {
+	top: 100px;
+	left: 400px;
+	position: absolute;
+
+}
+
+.img-1 {
+	top: 700px;
+	left: 50px;
+	position: absolute;
+}
+
+.img-2 {
+	top: 900px;
+	left: 700px;
+	position: absolute;
+}
+
+.img-3 {
+	top: 1100px;
+	left: 50px;
+	position: absolute;
+
+}
+
+.img-4 {
+	top: 1300px;
+	left: 700px;
+	position: absolute;
+}
+
+.img-5 {
+	top: 1500px;
+	left: 50px;
+	position: absolute;
+}
+
+.img-6 {
+	top: 1700px;
+	left: 700px;
+	position: absolute;
+}
+
+.img-7 {
+	top: 1900px;
+	left: 50px;
+	position: absolute;
+}
+
+.img-8 {
+	top: 2400px;
+	left: 600px;
+	position: absolute;
+	z-index: 10;
+}
+
+.owari {
+	top: 2400px;
+	left: 400px;
+	position: absolute;
+
+}
